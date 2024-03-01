@@ -1,0 +1,54 @@
+16:52:05.110 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:52:05.144 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+16:52:05.145 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+16:52:05.149 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+16:52:05.150 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+16:52:05.151 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+16:52:05.186 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+16:52:05.189 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+16:52:05.192 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+16:52:05.193 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+16:52:05.195 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:52:05.196 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+16:52:05.197 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+16:52:05.201 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+16:52:05.201 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+16:52:05.202 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+16:52:05.205 [main] INFO  Testcases.Testcase - ********Finished Testcase for Web development course********
+16:52:14.866 [main] INFO  Testcases.Testcase - Closing the browser
+16:54:11.499 [main] INFO  Testcases.Testcase - Chrome browser opened successfully
+16:54:27.287 [main] INFO  Testcases.Testcase - ********Starting Testcase for Web development course********
+16:54:36.292 [main] INFO  Testcases.Testcase - Searching Web development courses
+16:54:37.230 [main] INFO  Testcases.Testcase - Selecting english language
+16:54:40.015 [main] INFO  Testcases.Testcase - Selecting beginner level
+16:54:56.922 [main] INFO  Testcases.Testcase - Switching to first course tab
+16:55:08.261 [main] INFO  Testcases.Testcase - Switching to second course tab
+16:55:08.413 [main] INFO  Testcases.Testcase - ********Finished Testcase for Web development course********
+16:55:08.477 [main] INFO  Testcases.Testcase - ********Starting Testcase for Language Learning********
+16:55:16.036 [main] INFO  Testcases.Testcase - Searching language learning
+16:55:16.585 [main] INFO  Testcases.Testcase - Selecting Beginner level
+16:55:30.626 [main] INFO  Testcases.Testcase - Selecting Intermediate level
+16:55:43.261 [main] INFO  Testcases.Testcase - Selecting Advanced level
+16:55:56.262 [main] INFO  Testcases.Testcase - Selecting Advanced level
+16:56:03.270 [main] INFO  Testcases.Testcase - ********Finished Testcase for Web development course********
+16:56:03.283 [main] INFO  Testcases.Testcase - ********Starting Testcase for Course for campus********
+16:56:03.292 [main] INFO  Testcases.Testcase - Switching to for Campus
+16:56:17.004 [main] INFO  Testcases.Testcase - Entering invalid inputs
+16:56:21.065 [main] INFO  Testcases.Testcase - Capturing error message
+16:56:25.382 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+16:56:25.383 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+16:56:25.642 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+16:56:25.655 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+16:56:25.664 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+16:56:25.687 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:56:25.688 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+16:56:25.689 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+16:56:25.725 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+16:56:25.726 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+16:56:25.728 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+16:56:25.797 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+16:56:25.800 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+16:56:25.803 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+16:56:25.804 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+16:56:25.806 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+16:56:25.807 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'

@@ -1,0 +1,56 @@
+11:06:26.395 [main] INFO  Testcases.Testcase - ********Starting Testcase for Web development course********
+11:06:51.337 [main] INFO  Testcases.Testcase - ********Starting Testcase for Language Learning********
+11:07:01.632 [main] INFO  Testcases.Testcase - Searhing language learning
+11:07:06.657 [main] INFO  Testcases.Testcase - ********Starting Testcase for Course for campus********
+11:07:06.663 [main] INFO  Testcases.Testcase - Switching to for Campus
+11:07:38.567 [main] INFO  Testcases.Testcase - ********Starting Testcase for Web development course********
+11:07:58.992 [main] INFO  Testcases.Testcase - Searching Web development courses
+11:08:01.181 [main] INFO  Testcases.Testcase - Selecting english language
+11:08:03.217 [main] INFO  Testcases.Testcase - Selecting beginner level
+11:08:36.914 [main] INFO  Testcases.Testcase - Switching to first course tab
+11:09:06.149 [main] INFO  Testcases.Testcase - Switching to second course tab
+11:09:06.186 [main] INFO  Testcases.Testcase - ********Finished Testcase for Web development course********
+11:09:06.289 [main] INFO  Testcases.Testcase - ********Starting Testcase for Language Learning********
+11:09:07.680 [main] INFO  Testcases.Testcase - Searhing language learning
+11:09:13.161 [main] INFO  Testcases.Testcase - Selecting Beginner level
+11:09:45.695 [main] INFO  Testcases.Testcase - Selecting Intermediate level
+11:10:20.665 [main] INFO  Testcases.Testcase - Selecting Advanced level
+11:11:29.322 [main] INFO  Testcases.Testcase - ********Starting Testcase for Web development course********
+11:11:53.306 [main] INFO  Testcases.Testcase - Searching Web development courses
+11:11:54.209 [main] INFO  Testcases.Testcase - Selecting english language
+11:11:54.717 [main] INFO  Testcases.Testcase - Selecting beginner level
+11:12:14.948 [main] INFO  Testcases.Testcase - Switching to first course tab
+11:12:45.628 [main] INFO  Testcases.Testcase - Switching to second course tab
+11:12:45.667 [main] INFO  Testcases.Testcase - ********Finished Testcase for Web development course********
+11:12:45.760 [main] INFO  Testcases.Testcase - ********Starting Testcase for Language Learning********
+11:12:46.925 [main] INFO  Testcases.Testcase - Searhing language learning
+11:12:52.345 [main] INFO  Testcases.Testcase - Selecting Beginner level
+11:13:24.295 [main] INFO  Testcases.Testcase - Selecting Intermediate level
+11:13:57.043 [main] INFO  Testcases.Testcase - Selecting Advanced level
+11:14:30.400 [main] INFO  Testcases.Testcase - Selecting Advanced level
+11:14:56.693 [main] INFO  Testcases.Testcase - ********Finished Testcase for Web development course********
+11:14:56.707 [main] INFO  Testcases.Testcase - ********Starting Testcase for Course for campus********
+11:14:56.718 [main] INFO  Testcases.Testcase - Switching to for Campus
+11:15:23.992 [main] INFO  Testcases.Testcase - Entering invalid inputs
+11:15:27.310 [main] INFO  Testcases.Testcase - Capturing error message
+11:15:29.712 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+11:15:29.712 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+11:15:30.052 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+11:15:30.065 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+11:15:30.076 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+11:15:30.093 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+11:15:30.095 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+11:15:30.097 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+11:15:30.101 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:15:30.102 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+11:15:30.103 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'
+11:15:30.138 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+11:15:30.140 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+11:15:30.143 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+11:15:30.143 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+11:15:30.146 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+11:15:30.147 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+11:15:30.147 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+11:15:30.150 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:15:30.151 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet2.xml'
+11:15:30.151 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet3.xml'

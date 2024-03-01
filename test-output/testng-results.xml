@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-28T16:53:56 IST" name="Suite" finished-at="2024-02-28T16:56:29 IST" duration-ms="152843">
+    <groups>
+    </groups>
+    <test started-at="2024-02-28T16:53:56 IST" name="Test" finished-at="2024-02-28T16:56:29 IST" duration-ms="152843">
+      <class name="Testcases.Testcase">
+        <test-method is-config="true" signature="openUrl(java.lang.String,java.lang.String)[pri:0, instance:Testcases.Testcase@45752059]" started-at="2024-02-28T16:53:57 IST" name="openUrl" finished-at="2024-02-28T16:54:27 IST" duration-ms="29785" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="webdevelopmentcourse()[pri:1, instance:Testcases.Testcase@45752059]" started-at="2024-02-28T16:54:27 IST" name="webdevelopmentcourse" finished-at="2024-02-28T16:55:08 IST" duration-ms="41149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webdevelopmentcourse -->
+        <test-method signature="languagelearning()[pri:2, instance:Testcases.Testcase@45752059]" started-at="2024-02-28T16:55:08 IST" name="languagelearning" finished-at="2024-02-28T16:56:03 IST" duration-ms="54796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- languagelearning -->
+        <test-method signature="form()[pri:3, instance:Testcases.Testcase@45752059]" started-at="2024-02-28T16:56:03 IST" name="form" finished-at="2024-02-28T16:56:25 IST" duration-ms="22610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- form -->
+        <test-method is-config="true" signature="closeBowser()[pri:0, instance:Testcases.Testcase@45752059]" started-at="2024-02-28T16:56:25 IST" name="closeBowser" finished-at="2024-02-28T16:56:29 IST" duration-ms="3255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBowser -->
+      </class> <!-- Testcases.Testcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
